@@ -14,11 +14,13 @@ The impact of covid pandemic to the coffee market will also be discussed.
 
 ## Machine Learning 
 
-The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. 
+The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The liner regression analysis will also be used to predict the coffee consuption after covid. 
 
 Random Forest Regressor Model will be used in the prediction of engergy and water supply. 
 
 ## Description for resources 
 
 - The Consumer Price Index (CPI) is a measure that examines the weighted average of prices of a basket of consumer goods and services, such as transportation, food, and medical care. It is calculated by taking price changes for each item in the predetermined basket of goods and averaging them. Changes in the CPI are used to assess price changes associated with the cost of living.
+
+- Disappearance (consumption) in selected importing countries (In thousand 60-kg bags) 
 
