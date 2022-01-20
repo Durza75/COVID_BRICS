@@ -4,6 +4,13 @@ Using national income as the main criterion, the team will be looking into the e
 
 Additionally, the team will analyze the possibility of building a coffee processing facility in one of the BRICS countries. The team hopes this analysis will reveal which country has the most potential for building coffee processing factories as well as the potential for higher coffee consumption rates.
 
+## Business Interest Analysis
+The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee bean. So we are going to investigate the possibility of building coffee processing facilities in BRICS country. To develop ground coffee/instant coffee production line, we need to make sure the country can supply clean water, stable access to electricity and fast logistics.
+
+We will use coffee consumption data, consumer price index data, covid cases data, electricity generation, and water supply data to find out which country has the potential to build coffee bean processing facility and which country would have the potential to consume the products.
+
+The impact of covid pandemic to the coffee market will also be discussed.
+
 ## Why is this Important?
 COVID has had a profound impact on the world economy. The team would like to investigate COVID’s long term economic effect on developing countries and compare that to the US, in hopes of identifying key factors most affected by pandemics, as well as predict the future state of the six aforementioned countries. 
 
@@ -31,6 +38,10 @@ The datasets were taken from the World Bank and UNICEF. The datasets contained d
  - Louise will work on the coffee datasets and the coffee report established by the USDA. She will use machine learning to predict coffee consumption post-COVID. [enter more here if you wish]
  - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using unsupervised machine learning methodology. [enter more here if you wish]
  - Eric will also be using machine learning to analyze GDP and inflation of BRICS countries. [enter more here if you wish]
+
+The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The linear regression analysis will also be used to predict the coffee consuption after covid.
+
+Random Forest Regressor Model will be used in the prediction of energy and water supply.  
 
  Once the predictions are complete, the team will use Tableau to visualize their findings.
 
