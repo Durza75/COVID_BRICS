@@ -17,11 +17,20 @@ COVID has had a profound impact on the world economy. The team would like to inv
 ## Description of Data Exploration Phase
 
 ### The Datasets 
- - Coffee consumption data: *[enter URL here]* 
- - Consumer price index data: *[enter URL here]*
- - COVID cases data: *[enter URL here]* 
-- Electricity generation: *[enter URL here]* 
-- Water supply: UNICEF. (2021, July 1). Access to drinking water. UNICEF DATA. Retrieved January 14, 2022, from https://data.unicef.org/topic/water-and-sanitation/drinking-water/
+ Coffee consumption data.
+ -  International Coffee Organization. (2021, December). International Coffee Organization - Historical Data on the Global Coffee Trade. Retrieved January 20, 2022, from https://www.ico.org/new_historical.asp?section=Statistics 
+
+ Consumer price index data.
+ -  *[enter URL here- in Louise's branch]*
+ 
+ COVID cases data.
+ - John Hopkins University of Medicine. (2022). COVID-19 Map. Johns Hopkins Coronavirus Resource Center. Retrieved January 20, 2022, from https://coronavirus.jhu.edu/map.html
+
+Electricity generation:
+-  *[enter URL here - in main branch under "water and electricity" folder]* 
+
+Water supply.
+-  UNICEF. (2021, July 1). Access to drinking water. UNICEF DATA. Retrieved January 14, 2022, from https://data.unicef.org/topic/water-and-sanitation/drinking-water/
 
 The datasets were taken from the World Bank and UNICEF. The datasets contained data from all countries in the world, so the team trimmed them in order to reflect information pertaining only to BRICS countries and the USA. 
 
