@@ -1,6 +1,6 @@
 # Final Project Proposal: COVID BRICS
 ## Overview 
-Using national income as the main criterion, the team will be looking into the economic performance of BRICS countries (Brazil, Russia, India, China, South Africa) and the US over the past 20 years and how COVID has had an effect on their development. We will link that performance with access to key variables like electricity, water, health facilities, education and business climate. Finally, by using Machine Language we will make several projections in terms of the future incomes for these countries.
+Using national income as the main criterion, the team will be looking into the economic performance of BRICS countries (Brazil, Russia, India, China, South Africa) and the US over the past 20 years and how COVID has had an effect on their development. The BRICS countries and the US collectively make up about half of the world's land mass as well as the world's population. [enter exact numbers here]. We will link that performance with access to key variables like electricity, water, health facilities, education and business climate. Finally, by using Machine Language we will make several projections in terms of the future incomes for these countries.
 
 Additionally, the team will analyze the possibility of building a coffee processing facility in one of the BRICS countries. The team hopes this analysis will reveal which country has the most potential for building coffee processing factories as well as the potential for higher coffee consumption rates.
 
@@ -16,9 +16,10 @@ COVID has had a profound impact on the world economy. The team would like to inv
 
 ## Description of Data Exploration Phase
 
-### The Datasets
+### The Datasets (enter in URL format)
  - Confirmed global cases of COVID19 
  - GDP (Gross Domestic Product) by our selected countries from 2000 to 2020 
+- UNICEF. (2021, July 1). Access to drinking water. UNICEF DATA. Retrieved January 14, 2022, from https://data.unicef.org/topic/water-and-sanitation/drinking-water/
 - [enter remainder of datasets]
 - [enter remainder of datasets]
 - [enter remainder of datasets]
@@ -34,9 +35,9 @@ The datasets were taken from the World Bank and UNICEF. The datasets contained d
  - Louise: "louiseyangbranch"
  - Eric: "EricStrobach"
 
-  ## Team Member Roles
+  ## Team Member Roles (to be determined later)
  - Louise will work on the coffee datasets and the coffee report established by the USDA. She will use machine learning to predict coffee consumption post-COVID. [enter more here if you wish]
- - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using unsupervised machine learning methodology. [enter more here if you wish]
+ - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using unsupervised machine learning methodology. Will also create charts/maps on inflation.[enter more here if you wish]
  - Eric will also be using machine learning to analyze GDP and inflation of BRICS countries. [enter more here if you wish]
 
 The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The linear regression analysis will also be used to predict the coffee consuption after covid.
@@ -48,6 +49,7 @@ Random Forest Regressor Model will be used in the prediction of energy and water
  ## Technologies, Languages, Tools, and Algorithms Used
  - Python
  - Machine Learning
+ - Random Forest
  - Tableau
  - SQL Schema
 
