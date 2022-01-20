@@ -7,15 +7,44 @@ Additionally, the team will analyze the possibility of building a coffee process
 ## Why is this Important?
 COVID has had a profound impact on the world economy. The team would like to investigate COVID’s long term economic effect on developing countries and compare that to the US, in hopes of identifying key factors most affected by pandemics, as well as predict the future state of the six aforementioned countries. 
 
-## The Data
+## Description of Data Exploration Phase
+
+### The Datasets
  - Confirmed global cases of COVID19 
  - GDP (Gross Domestic Product) by our selected countries from 2000 to 2020 
+- [enter remainder of datasets]
+- [enter remainder of datasets]
+- [enter remainder of datasets]
 
- ## Data Science Methodologies Used
+The datasets were taken from the World Bank and UNICEF. The datasets contained data from all countries in the world, so the team trimmed them in order to reflect information pertaining only to BRICS countries and the USA. 
+
+## The Team
+ ### Protocol for Pushing to GitHub
+ All members will push their content to their branches first before pushing it into their main branch. In order to be pushed to the main branch, the content will have to be agreed upon all three members first.
+
+ The three branches are as follows:
+ - Chandra: "Chrandra"
+ - Louise: "louiseyangbranch"
+ - Eric: "EricStrobach"
+
+  ## Team Member Roles
+ - Louise will work on the coffee datasets and the coffee report established by the USDA. She will use machine learning to predict coffee consumption post-COVID. [enter more here if you wish]
+ - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using unsupervised machine learning methodology. [enter more here if you wish]
+ - Eric will also be using machine learning to analyze GDP and inflation of BRICS countries. [enter more here if you wish]
+
+ Once the predictions are complete, the team will use Tableau to visualize their findings.
+
+ ## Technologies, Languages, Tools, and Algorithms Used
  - Python
  - Machine Learning
  - Tableau
  - SQL Schema
+
+ ## Results of Analysis
+ [Enter results here]
+
+ ## Recommendations for Future Analyisis
+[Enter Recomendations here]
 
 ## Project Plan
 ![](Images/project_plan.png) 
