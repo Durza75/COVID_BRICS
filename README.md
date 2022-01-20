@@ -4,15 +4,19 @@
 
 In this section, we are going to analyze the business potential in BRICS countries. 
 
-The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee bean. So we are going to investigate the possibility of building coffee processing facilities in BRICS country. To develop ground coffee/instant coffee production line, we need to make sure the country can supply clean water, stable access to electricity and fast logistics. 
+The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee bean. So we are going to investigate the possibility of building coffee processing facilities in BRICS countries. We will use coffee consumption data, consumer price index data, covid cases data, electricity generation, and water supply data to find out which country has the potential to build coffee bean processing facility and which country would have the potential to consume the products.
 
+To develop ground coffee/instant coffee production lines, we also need to make sure the country can supply clean water, stable access to electricity and fast logistics. So we will analyze and predict the water and electricity supply in BRICS Countries. 
 
-We will use coffee consumption data, consumer price index data, covid cases data, electricity generation, and water supply data to find out which country has the potential to build coffee bean processing facility and which country would have the potential to consume the products.
+Finally, we will investigate the factors like inflation rate, covid pandemic, GDP and income to find out what would affect the consumption of coffee product in BRICS and United States. 
 
-
-The impact of covid pandemic to the coffee market will also be discussed. 
 
 ## Machine Learning 
+
+K-means Algorithm will be used to analyze the production,export and consumption of the BRICS countries. 
+
+We'll use the Elbow Curve to Determine the Best K Value And then apply the K-mean algorithm to the coffee industry data. 
+ 
 
 The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The liner regression analysis will also be used to predict the coffee consuption after covid. 
 
