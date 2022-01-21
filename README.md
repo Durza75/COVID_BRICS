@@ -66,7 +66,8 @@ Random Forest Regressor Model will be used in the prediction of energy and water
  - SQL Schema
 
  ## Results of Analysis
- *[Results will be entered here]*
+ Visualizations of our findings can be found by clicking [here](https://public.tableau.com/app/profile/eric3972/viz/COVID_BRICS/BRICSCOVIDGrowthRate?publish=yes)
+
 
  ## Recommendations for Future Analyisis
 *[Recomendations will be entered here]*
