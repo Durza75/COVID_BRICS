@@ -62,7 +62,7 @@ The datasets were taken from the World Bank and UNICEF. The datasets contained d
  All members will push their content to their branches first before pushing it into their main branch. In order to be pushed to the main branch, the content will have to be agreed upon all three members first.
 
  The three branches are as follows:
- - Chandra: "Chrandra"
+ - Chandra: "Chandra"
  - Louise: "louiseyangbranch"
  - Eric: "EricStrobach"
 
