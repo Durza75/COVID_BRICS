@@ -68,7 +68,7 @@ The datasets were taken from the World Bank and UNICEF. The datasets contained d
 
   ## Team Member Roles
  - Louise will work on the coffee datasets and the coffee report established by the USDA. She will use machine learning to predict coffee consumption post-COVID. 
- - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using unsupervised machine learning methodology. Will also create charts/maps on inflation.
+ - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using supervised machine learning methodology. Will also create charts/maps on inflation.
  - Eric will also be using machine learning to analyze GDP and inflation of BRICS countries.
 
  - *(The team is still in the planning phase. Once the gameplan is decided, the team will assign additional specific roles to each member)*
