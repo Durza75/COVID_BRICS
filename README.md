@@ -16,7 +16,16 @@ Finally, we will investigate the factors like inflation rate, covid pandemic, GD
 K-means Algorithm will be used to analyze the production,export and consumption of the BRICS countries. 
 
 We'll use the Elbow Curve to Determine the Best K Value And then apply the K-mean algorithm to the coffee industry data. 
- 
+
+
+![image](https://user-images.githubusercontent.com/88631769/150729979-c730adb7-407b-4539-b322-732abfd74351.png)
+
+![bokeh_plot](https://user-images.githubusercontent.com/88631769/150729643-e6a6f7f8-7ce6-4d56-9200-0e50c4a15f5e.png)
+
+![newplot](https://user-images.githubusercontent.com/88631769/150729922-09f05ebe-088a-4a7e-86ca-a9dacf3e258a.png)
+
+![2](https://user-images.githubusercontent.com/88631769/150730208-ba83fe79-21b3-47f6-9516-88031b4d3368.png)
+
 
 The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The liner regression analysis will also be used to predict the coffee consuption after covid. 
 
