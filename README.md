@@ -22,11 +22,11 @@ We'll use the Elbow Curve to Determine the Best K Value And then apply the K-mea
 
 After performing the elbow curve analysis, we got the number of clusters. 
 
-![bokeh_plot](https://user-images.githubusercontent.com/88631769/150729643-e6a6f7f8-7ce6-4d56-9200-0e50c4a15f5e.png)
+![bokeh_plot](https://user-images.githubusercontent.com/88631769/150927907-a493ddc6-45f4-4b5d-99cc-7d5237cbc0d0.png)
 
-![newplot](https://user-images.githubusercontent.com/88631769/150729922-09f05ebe-088a-4a7e-86ca-a9dacf3e258a.png)
+![newplot](https://user-images.githubusercontent.com/88631769/150927836-5eddc8c4-f22a-4496-b92c-c63f30a3db22.png)
 
-![2](https://user-images.githubusercontent.com/88631769/150730208-ba83fe79-21b3-47f6-9516-88031b4d3368.png)
+![2](https://user-images.githubusercontent.com/88631769/150927872-a6841b9c-cf04-433e-a791-dceea87805ac.png)
 
 The coffee industry performance data could be divided into 3 classes, 
 
