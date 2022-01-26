@@ -50,10 +50,9 @@ We would also like to see the prospect of coffee industry in China, India, South
 
 The coffee industry performance for Russia, India, China and South Africa can be diveided to three clusters, 
 
-- Low production, low consumption, low exportation, low importation 
-- Low production, high consumption, low exportation, high importation 
-- High production, low consumption, high exportation, low importation 
-
+- Low production, low consumption, low exportation, low importation (South Africa) 
+- Low production, high consumption, low exportation, high importation (China Russia)
+- High production, low consumption, high exportation, low importation (India)
 
 ### Liner Regression 
 The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The liner regression analysis will also be used to predict the coffee consuption after covid. 
