@@ -10,7 +10,7 @@ A variety of factors that could affect the coffee industry and coffee market wil
 
 For example, to develop ground coffee/instant coffee production lines, we need to make sure the country can supply clean water, stable access to electricity and fast logistics. So we will analyze and predict the water and electricity supply in BRICS Countries.
 
-We will alos investigate the factors like inflation rate, covid pandemic, GDP and income to find out what would affect the consumption of coffee product in BRICS and United States. 
+We will also investigate the factors like inflation rate, covid pandemic, GDP and income to find out what would affect the future consumption and production of coffee in BRICS and United States. 
 
 
 ## Machine Learning 
@@ -47,6 +47,12 @@ We would also like to see the prospect of coffee industry in China, India, South
 ![image](https://user-images.githubusercontent.com/88631769/151115638-9d6647d0-703d-4f2b-b942-6a7609552b78.png)
 
 ![image](https://user-images.githubusercontent.com/88631769/151115678-b7c75be2-cf4b-4c65-9426-a5353eef5a6c.png)
+
+The coffee industry performance for Russia, India, China and South Africa can be diveided to three clusters, 
+
+- Low production, low consumption, low exportation, low importation 
+- Low production, high consumption, low exportation, high importation 
+- High production, low consumption, high exportation, low importation 
 
 
 ### Liner Regression 
