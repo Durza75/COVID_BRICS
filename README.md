@@ -2,13 +2,15 @@
 
 ## Overview of Business Interest Analysis
 
-In this section, we are going to analyze the business potential in BRICS countries. 
+In this section, we are going to analyze the business potential of coffee industry in BRICS countries. The data we used in this analysis includes coffee consumption data, consumer price index data, covid cases data, electricity generation, and water supply data. 
 
-The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee bean. So we are going to investigate the possibility of building coffee processing facilities in BRICS countries. We will use coffee consumption data, consumer price index data, covid cases data, electricity generation, and water supply data to find out which country has the potential to build coffee bean processing facility and which country would have the potential to consume the products.
+The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee bean. So we are going to investigate the possibility of building coffee processing facilities in BRICS countries. Also, we will find out the role each country is playing in global coffee industry. The purpose of this part of the project is to reveal which country has the potential to build coffee bean processing facility and which country would have the potential to consume the products. 
 
-To develop ground coffee/instant coffee production lines, we also need to make sure the country can supply clean water, stable access to electricity and fast logistics. So we will analyze and predict the water and electricity supply in BRICS Countries. 
+A variety of factors that could affect the coffee industry and coffee market will be analyzed in this section. 
 
-Finally, we will investigate the factors like inflation rate, covid pandemic, GDP and income to find out what would affect the consumption of coffee product in BRICS and United States. 
+For example, to develop ground coffee/instant coffee production lines, we need to make sure the country can supply clean water, stable access to electricity and fast logistics. So we will analyze and predict the water and electricity supply in BRICS Countries.
+
+We will alos investigate the factors like inflation rate, covid pandemic, GDP and income to find out what would affect the consumption of coffee product in BRICS and United States. 
 
 
 ## Machine Learning 
@@ -41,6 +43,10 @@ Apprently, Brazil is the major coffee producer and united states is the largest 
 In fact, The United States imports the second-largest amount of coffee beans and is forecast up 700,000 bags to 25.0 million. Top suppliers include Brazil (30 percent), Colombia (21 percent), Vietnam (11 percent), and Nicaragua (5 percent). Brazil and United States hava a long history of planting and processing coffee. The market in Brazil and United States had saturated. Brazil and United States own mature coffee processing technology and management experience. So the two countries would be regarded as possible investors in the rest of the analysis. 
 
 We would also like to see the prospect of coffee industry in China, India, South Africa and Russia. So again, we performed the K-means Algorithm on those four countries. 
+
+![image](https://user-images.githubusercontent.com/88631769/151115638-9d6647d0-703d-4f2b-b942-6a7609552b78.png)
+
+![image](https://user-images.githubusercontent.com/88631769/151115678-b7c75be2-cf4b-4c65-9426-a5353eef5a6c.png)
 
 
 ### Liner Regression 
