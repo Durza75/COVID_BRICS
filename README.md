@@ -13,9 +13,11 @@ Finally, we will investigate the factors like inflation rate, covid pandemic, GD
 
 ## Machine Learning 
 
+### K-means Algorithm 
+
 K-means Algorithm will be used to analyze the production,export,import and consumption of the BRICS countries. 
 
-We'll use the Elbow Curve to Determine the Best K Value And then apply the K-mean algorithm to the coffee industry data. 
+We'll use the Elbow Curve to determine the best K value and then apply the K-mean algorithm to the coffee industry data. 
 
 
 ![image](https://user-images.githubusercontent.com/88631769/150729979-c730adb7-407b-4539-b322-732abfd74351.png)
@@ -34,13 +36,16 @@ The coffee industry performance data could be divided into 3 classes,
 - Low production, high consumption, low exportation, high importation (US)
 - Low production, low consumption, low exportation, low imortation(China, India, South Africa,Russia) 
 
-Apprently, Brazil is the major coffee producer and united states is the largest coffee consumer.The United States imports the second-largest amount of coffee beans and is forecast up 700,000 bags to 25.0 million. Top suppliers include Brazil (30 percent), Colombia (21 percent), Vietnam (11 percent), and Nicaragua (5 percent). Brazil and United States hava a long history of planting and processing coffee. 
+Apprently, Brazil is the major coffee producer and united states is the largest coffee consumer.
 
-However, we would also like to see the prospect of coffee industry in China, India, South Africa and Russia. 
+In fact, The United States imports the second-largest amount of coffee beans and is forecast up 700,000 bags to 25.0 million. Top suppliers include Brazil (30 percent), Colombia (21 percent), Vietnam (11 percent), and Nicaragua (5 percent). Brazil and United States hava a long history of planting and processing coffee. The market in Brazil and United States had saturated. Brazil and United States own mature coffee processing technology and management experience. So the two countries would be regarded as possible investors in the rest of the analysis. 
 
+We would also like to see the prospect of coffee industry in China, India, South Africa and Russia. So again, we performed the K-means Algorithm on those four countries. 
+
+
+### Liner Regression 
 The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The liner regression analysis will also be used to predict the coffee consuption after covid. 
 
-Random Forest Regressor Model will be used in the prediction of engergy and water supply. 
 
 ## Description for resources 
 
