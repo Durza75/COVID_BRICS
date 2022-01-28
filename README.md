@@ -1,5 +1,16 @@
 # Final Project: BRICS_US
 
+# Steps for Downloading the World Bank dataset in Jupyter Notebook
+
+*   Step 1: from the website data.worldbank.org find which indicator is required for the analysis
+*   Step 2: find the indicator code for the Metadata. For example for the GDP Growth Rate (Annual) use  "NY.GDP.MKTP.KD.ZG"
+*   Step 3: Use country codes such BRA, IND, CNA, RUS, ZAF and US for Brazil, India, China, South Africa and the United States, and "all" for the world.
+*   Step 4: After printing the dataframe, check for missing values and replace them using economic rationale
+*   Step 5: Export data set using python as excel/csv files for Brazil, Russia, India, China, South Africa and United States
+
+
+
+
 # Economic Growth and Inflation after COVID-19 in BRICS_US
 
 Brazil, Russia, India, China, South Africa (BRICS) combined with the United States have a combined area of about 32.84% of the global land area, and  a combined population of about 46.25% the global population. Their economies, as a result, are expected to affect global business activities significantly.
