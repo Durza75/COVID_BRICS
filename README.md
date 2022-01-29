@@ -39,12 +39,10 @@ COVID has had a profound impact on the world economy. The team would like to inv
 
 ## Description of Data Exploration Phase
 
-![image](https://user-images.githubusercontent.com/88631769/150660829-0dc95f54-d607-4595-8019-3fc12b43223b.png)
- *(Not part of current schema, but is required for regression analysis)*
+![DBMS ER diagram (UML notation)](https://user-images.githubusercontent.com/88631769/151652834-19978734-175c-4110-afb5-d9a3ebe7bb0f.png)
 
 ### The Datasets 
 
-![DBMS ER diagram (UML notation)](https://user-images.githubusercontent.com/88631769/151652753-cb10fa8a-680c-4d34-bddc-8e44de8319a3.png)
 
  Coffee consumption data.
  -  International Coffee Organization. (2021, December). International Coffee Organization - Historical Data on the Global Coffee Trade. Retrieved January 20, 2022, from https://www.ico.org/new_historical.asp?section=Statistics 
