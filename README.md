@@ -44,7 +44,7 @@ COVID has had a profound impact on the world economy. The team would like to inv
 
 ### The Datasets 
 
-![image](https://user-images.githubusercontent.com/88631769/150660829-0dc95f54-d607-4595-8019-3fc12b43223b.png)
+![DBMS ER diagram (UML notation)](https://user-images.githubusercontent.com/88631769/151652753-cb10fa8a-680c-4d34-bddc-8e44de8319a3.png)
 
  Coffee consumption data.
  -  International Coffee Organization. (2021, December). International Coffee Organization - Historical Data on the Global Coffee Trade. Retrieved January 20, 2022, from https://www.ico.org/new_historical.asp?section=Statistics 
