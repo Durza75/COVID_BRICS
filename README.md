@@ -107,6 +107,9 @@ Random Forest Regressor Model will be used in the prediction of energy and water
 
 - Initial Powerpoint created on Google for group members to share and fill out. Found [here](https://docs.google.com/presentation/d/1sENnhxP9yu0vP8DOV1RuBIz_gj9Yy_TbyXr_1YWNfM8/edit#slide=id.p)
 
+- Grading rubric and comments between the team and the Instructor/TAs found [here](https://docs.google.com/spreadsheets/d/15AgfrG6YEh5WokYdWDqsg1ljXe3YJu9cP0bLVVQpOXs/edit#gid=1810349514)
+
+
 
  ## Recommendations for Future Analyisis
 *[Recomendations will be entered here]*
