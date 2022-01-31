@@ -60,6 +60,15 @@ Water supply.
 
 The datasets were taken from the World Bank and UNICEF. The datasets contained data from all countries in the world, so the team trimmed them in order to reflect information pertaining only to BRICS countries and the USA. 
 
+### Steps for Downloading the World Bank dataset in Jupyter Notebook
+
+- Step 1: from the website data.worldbank.org find which indicator is required for the analysis
+- Step 2: find the indicator code for the Metadata. For example for the GDP Growth Rate (Annual) use "NY.GDP.MKTP.KD.ZG"
+- Step 3: Use country codes such BRA, IND, CNA, RUS, ZAF and US for Brazil, India, China, South Africa and the United States, and "all" for the world.
+- Step 4: After printing the dataframe, check for missing values and replace them using economic rationale
+- Step 5: Export data set using python as excel/csv files for Brazil, Russia, India, China, South Africa and United States
+
+
 ## The Team
  ### Protocol for Pushing to GitHub
  All members will push their content to their branches first before pushing it into their main branch. In order to be pushed to the main branch, the content will have to be agreed upon all three members first.
