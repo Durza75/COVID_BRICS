@@ -8,7 +8,7 @@ The BRICS countries are either located in the places that are perfect for coffee
 
 A variety of factors that could affect the coffee industry and coffee market will be analyzed in this section. 
 
-For example, to develop ground coffee/instant coffee production lines, we need to make sure the country can supply clean water, stable access to electricity and fast logistics. So we will analyze and predict the water and electricity supply in BRICS Countries.
+For example, to develop ground coffee/instant coffee production lines, we need to make sure the country can supply clean water, stable access to electricity and fast logistics. 
 
 We will also investigate the factors like inflation rate, covid pandemic, GDP and income to find out what would affect the future consumption and production of coffee in BRICS and United States. 
 
