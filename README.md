@@ -26,17 +26,15 @@ We'll use the Elbow Curve to determine the best K value and then apply the K-mea
 
 After performing the elbow curve analysis, we got the number of clusters. 
 
-![bokeh_plot](https://user-images.githubusercontent.com/88631769/150927907-a493ddc6-45f4-4b5d-99cc-7d5237cbc0d0.png)
-
-![newplot](https://user-images.githubusercontent.com/88631769/150927836-5eddc8c4-f22a-4496-b92c-c63f30a3db22.png)
-
-![2](https://user-images.githubusercontent.com/88631769/150927872-a6841b9c-cf04-433e-a791-dceea87805ac.png)
+![pca_result](https://user-images.githubusercontent.com/88631769/152090804-32e84af6-e8c0-4106-a456-df1712399c98.png)
+![pro_consum_export](https://user-images.githubusercontent.com/88631769/152090846-a651e062-f752-416a-b51c-979620be3aec.png)
+![pro_consum_import](https://user-images.githubusercontent.com/88631769/152090863-d0cde72f-bb4d-46fa-a2c0-8365b7cf1b12.png)
 
 The coffee industry performance data could be divided into 3 classes, 
 
-- High production, high consumption, high exportation,low importation (Brazil)
-- Low production, high consumption, low exportation, high importation (US)
-- Low production, low consumption, low exportation, low imortation(China, India, South Africa,Russia) 
+- class 0:High production, high consumption, high exportation,low importation (Brazil)
+- class 2:  production, high consumption, low exportation, high importation (US)
+- class 1: Low production, low consumption, low exportation, low imortation(China, India, South Africa,Russia) 
 
 Apprently, Brazil is the major coffee producer and united states is the largest coffee consumer.
 
@@ -44,15 +42,15 @@ In fact, The United States imports the second-largest amount of coffee beans and
 
 We would also like to see the prospect of coffee industry in China, India, South Africa and Russia. So again, we performed the K-means Algorithm on those four countries. 
 
-![image](https://user-images.githubusercontent.com/88631769/151115638-9d6647d0-703d-4f2b-b942-6a7609552b78.png)
+![rics_1](https://user-images.githubusercontent.com/88631769/152091610-f731ae09-d8ad-4d24-9d5c-210095eab68e.png)
 
-![image](https://user-images.githubusercontent.com/88631769/151115678-b7c75be2-cf4b-4c65-9426-a5353eef5a6c.png)
+![rics_2](https://user-images.githubusercontent.com/88631769/152091637-469b042c-6261-48d8-9b57-aa9778efecd8.png)
 
 The coffee industry performance for Russia, India, China and South Africa can be diveided to three clusters, 
 
-- Low production, low consumption, low exportation, low importation (South Africa) 
-- Low production, high consumption, low exportation, high importation (China Russia)
-- High production, low consumption, high exportation, low importation (India)
+- class 1: Low production, low consumption, low exportation, low importation (South Africa) 
+- class 2: Low production, high consumption, low exportation, high importation (China Russia)
+- class 0: High production, low consumption, high exportation, low importation (India)
 
 ### Liner Regression 
 The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The liner regression analysis will also be used to predict the coffee consuption after covid. 
