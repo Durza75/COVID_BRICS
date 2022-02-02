@@ -20,7 +20,8 @@ K-means Algorithm was used to analyze the production,export,import and consumpti
 We used the Elbow Curve to determine the best K value and then apply the K-mean algorithm to the coffee industry data. 
 
 
-![image](https://user-images.githubusercontent.com/88631769/150729979-c730adb7-407b-4539-b322-732abfd74351.png)
+![image](https://user-images.githubusercontent.com/88631769/152209969-9469e1ec-ec19-4138-a245-9c2ae37c8a1b.png)
+
 
 After performing the elbow curve analysis, we got the number of clusters.
 
