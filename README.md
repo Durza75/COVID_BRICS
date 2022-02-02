@@ -11,6 +11,54 @@ We will use coffee consumption data, consumer price index data, covid cases data
 
 The impact of covid pandemic to the coffee market will also be discussed.
 
+### Methods 
+
+#### K-means Algorithm 
+
+K-means Algorithm was used to analyze the production,export,import and consumption of the BRICS countries. 
+
+We used the Elbow Curve to determine the best K value and then apply the K-mean algorithm to the coffee industry data. 
+
+
+![image](https://user-images.githubusercontent.com/88631769/150729979-c730adb7-407b-4539-b322-732abfd74351.png)
+
+After performing the elbow curve analysis, we got the number of clusters.
+
+#### Results of Clustering Analysis 
+
+
+![pca_result](https://user-images.githubusercontent.com/88631769/152090804-32e84af6-e8c0-4106-a456-df1712399c98.png)
+![pro_consum_export](https://user-images.githubusercontent.com/88631769/152090846-a651e062-f752-416a-b51c-979620be3aec.png)
+![pro_consum_import](https://user-images.githubusercontent.com/88631769/152090863-d0cde72f-bb4d-46fa-a2c0-8365b7cf1b12.png)
+
+The coffee industry performance data could be divided into 3 classes, 
+
+- class 0:High production, high consumption, high exportation,low importation (Brazil)
+- class 2:  production, high consumption, low exportation, high importation (US)
+- class 1: Low production, low consumption, low exportation, low imortation(China, India, South Africa,Russia) 
+
+Apprently, Brazil is the major coffee producer and united states is the largest coffee consumer.
+
+In fact, The United States imports the second-largest amount of coffee beans and is forecast up 700,000 bags to 25.0 million. Top suppliers include Brazil (30 percent), Colombia (21 percent), Vietnam (11 percent), and Nicaragua (5 percent). Brazil and United States hava a long history of planting and processing coffee. The market in Brazil and United States had saturated. Brazil and United States own mature coffee processing technology and management experience. So the two countries would be regarded as possible investors in the rest of the analysis. 
+
+We would also like to see the prospect of coffee industry in China, India, South Africa and Russia. So again, we performed the K-means Algorithm on those four countries. 
+
+![rics_1](https://user-images.githubusercontent.com/88631769/152091610-f731ae09-d8ad-4d24-9d5c-210095eab68e.png)
+
+![rics_2](https://user-images.githubusercontent.com/88631769/152091637-469b042c-6261-48d8-9b57-aa9778efecd8.png)
+
+The coffee industry performance for Russia, India, China and South Africa can be diveided to three clusters, 
+
+- class 1: Low production, low consumption, low exportation, low importation (South Africa) 
+- class 2: Low production, high consumption, low exportation, high importation (China Russia)
+- class 0: High production, low consumption, high exportation, low importation (India)
+
+In sum, China and Russia are the main consumers in the coffee industry. India is the main coffee producer in india. 
+
+![image](https://user-images.githubusercontent.com/88631769/152097946-07c7173d-f214-43e6-bc82-af0a35b39a71.png)
+(Total consumption in last 10 years)
+
+
 ## Economic Growth and Inflation after COVID-19 in BRICS_US
 
 Brazil, Russia, India, China, South Africa (BRICS) combined with the United States have a combined area of about 32.84% of the global land area, and  a combined population of about 46.25% the global population. Their economies, as a result, are expected to affect global business activities significantly.
