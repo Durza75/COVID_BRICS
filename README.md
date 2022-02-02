@@ -53,7 +53,7 @@ The coffee industry performance for Russia, India, China and South Africa can be
 - class 2: Low production, high consumption, low exportation, high importation (China Russia)
 - class 0: High production, low consumption, high exportation, low importation (India)
 
-In sum, China and Russia are the main consumers in the coffee industry. India is the main coffee producer in india. 
+In sum, China and Russia are the main consumers in the coffee industry. India is the main coffee producer in Asia. 
 
 ![image](https://user-images.githubusercontent.com/88631769/152097946-07c7173d-f214-43e6-bc82-af0a35b39a71.png)
 (Total consumption in last 10 years)
