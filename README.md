@@ -59,6 +59,23 @@ In sum, China and Russia are the main consumers in the coffee industry. India is
 ![image](https://user-images.githubusercontent.com/88631769/152097946-07c7173d-f214-43e6-bc82-af0a35b39a71.png)
 (Total consumption in last 10 years)
 
+#### Linear Regression and Correlation Analysis 
+
+Linear Regression Model was used to find out the relationship between coffee industry performance and different factors such as GDP and COVID pandemic. Also, liner regression model was applied to predict the coffee consumption,production and importation in China, Russia, India and South Africa. 
+
+![coffee_GDP](https://user-images.githubusercontent.com/88631769/152742011-00328425-5109-4fc1-bded-7751adf4678c.png)
+
+The coffee consumption/importation and production in one country are positive correlated to the GDP of the country. 
+
+During covid pandemic, global coffee median price is keep soaring. 
+
+![coffee price world](https://user-images.githubusercontent.com/88631769/152743004-5b9cf745-6488-47a0-a0a2-d8a9062c8cca.PNG)
+
+Though the coffee consumption in China, India and South Africa is not as much as the consumption in Russia, the needs for coffee is growing in China, South Africa and India even during pandemic.
+
+Meanwhile the coffee consumption in Russia had dropped. However, the decrease in Russia's coffee consumption doesn't mean Russian people are changing their spending habits and life styles. We noticed that the decreased in Russian coffee importation is more than the decrease in Russina coffee consumption. Thus, the dropped in Russian coffee consumption could caused by the shortage of the coffee product and the increasing coffee price. 
+
+The result for industry prediciton is that the coffee consumption in BRICS country will keep growing. 
 
 ## Economic Growth and Inflation after COVID-19 in BRICS_US
 
