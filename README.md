@@ -5,9 +5,9 @@ Using national income as the main criterion, the team will be looking into the e
 Additionally, the team will analyze the possibility of building a coffee processing facility in one of the BRICS countries. The team hopes this analysis will reveal which country has the most potential for building coffee processing factories as well as the potential for higher coffee consumption rates.
 
 ## Business Interest Analysis
-The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee bean. So we are going to investigate the possibility of building coffee processing facilities in BRICS country. To develop ground coffee/instant coffee production line, we need to make sure the country can supply clean water, stable access to electricity and fast logistics.
+The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee bean. So we are going to investigate the possibility of building coffee processing facilities in BRICS country. To develop ground coffee/instant coffee production lines, we need to make sure the country can supply clean water, stable access to electricity and fast logistics.
 
-We will use coffee consumption data, consumer price index data, covid cases data, electricity generation, and water supply data to find out which country has the potential to build coffee bean processing facility and which country would have the potential to consume the products.
+We will use coffee industry performance data, covid cases data, electricity generation, water supply and logistic index data to find out which country has the potential to build coffee bean processing facility and which country would have the potential to consume the products.
 
 The impact of covid pandemic to the coffee market will also be discussed.
 
@@ -75,7 +75,81 @@ Though the coffee consumption in China, India and South Africa is not as much as
 
 Meanwhile the coffee consumption in Russia had dropped. However, the decrease in Russia's coffee consumption doesn't mean Russian people are changing their spending habits and life styles. We noticed that the decreased in Russian coffee importation is more than the decrease in Russina coffee consumption. Thus, the dropped in Russian coffee consumption could caused by the shortage of the coffee product and the increasing coffee price. 
 
-The result for industry prediciton is that the coffee consumption in BRICS country will keep growing. 
+The result for industry prediciton is that the coffee consumption in BRICS country will keep growing, especially in China and South Africa. The significant growth in coffee import and coffee consupmtion means the coffee market in those China and South Africa is not saturated yet. Thus, the investors in United States and Brazil could consider building the coffee processing facilities in those countrAnd the price of coffee will increase in future. 
+
+### Analysis for Production Environment 
+
+To find out which country have the ability to build coffee processing lines, we performed the clustering analysis on the electricity generation, clean water accessiblity and logistics index of BRICS country and United States. 
+
+![BRICS_Resource](https://user-images.githubusercontent.com/88631769/152927305-c49e8564-28f7-4642-ae76-555665d27dff.PNG)
+
+China and United States have the best production environment. The production environment in South Africa is not as good as China or United States. But the coffee market in South Africa is relatively small. So South Africa’s accessibility to clean water, electricity and efficient logistics is enough to support small-scale production. 
+
+### Investment Pros and Cons 
+
+- United States
+
+  Pros:  
+  
+  i. United States have a long history of consuming coffee product and own top coffee processing technology and experience. 
+  
+  ii. The coffee consumption in United States is Huge. The market is very staple. 
+  
+  iii. United States is close to the main coffee producers like Columbia and Brazil. 
+  
+  iv. To support domestic manufactory and create jobs. 
+  
+  Cons:
+  
+  i. The labor costs in United States is expensive.
+  
+  ii. Possible environment pollutions. 
+  
+  Suggestion: The investors could consider building small-scaled coffee processing lines for high-end market.  
+  
+ - China 
+
+   Pros: 
+   
+   i. The coffee consumption in China is growing as the country's GDP keep increasing. Based on the large population in China, the market would be tremendous. 
+   
+   ii. China have excellent production environment, and the labor costs is relatively low. 
+   
+   iii. The logistics system in China is mature. The product could be delivered to each vendor as soon as possible. Plus, China is has international railways to Russia. The coffee consumption in Russia is even higher than the coffee consumption in China. 
+   
+   vi. The domestic coffee production in China is low. But China is close to large coffee producers like Vietnam and India. 
+   
+   Cons:
+   
+   i. There will be many competitors in Chinese coffee market. 
+   
+   ii. Need extra food quality control to avoid food safety accident.
+   
+   Suggestion: To meet the increasing demands in China, the investors could consider big-scaled investments. Additionaly, the investors should investigate the consumer habits before making the decision. For example, espresso machine is not common in Chinese family. Most people are drink instant coffee or canned coffee. 
+   
+   - South Africa, 
+
+    Pros:
+    
+    i.  The production environment is good enough to support small-scaled production. 
+    
+    ii. The coffee market is growing. Although the total coffee consumption is lower than what in China or United States, the coffee consumption per person in South Africa is higher than the consumption per person in China. Comparing to China, South Africa has longer history of consuming and producing coffee. 
+    
+    Cons: 
+    
+    i. The market is too small and the neighbouring countries cannot afford coffee product. 
+    
+    ii. South Africa is far away from the main coffee producers. The costs of importing coffee bean could be high. 
+    
+    
+    Suggestion: The investors could consider small-scaled investment in South Africa. Before making the decision, the investors should figure out which consumer group has the ability and the will to spend money on coffee product. And then the investor should adjust the product features and target market to meet the need of the mainstream consumers in South Africa. 
+  
+  
+  
+ 
+
+
+
 
 ## Economic Growth and Inflation after COVID-19 in BRICS_US
 
