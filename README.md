@@ -127,7 +127,7 @@ China and United States have the best production environment. The production env
    
    Suggestion: To meet the increasing demands in China, the investors could consider big-scaled investments. Additionaly, the investors should investigate the consumer habits before making the decision. For example, espresso machine is not common in Chinese family. Most people are drink instant coffee or canned coffee. 
    
-   - South Africa, 
+  - South Africa, 
 
     Pros:
     
