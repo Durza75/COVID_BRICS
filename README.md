@@ -101,11 +101,11 @@ China and United States have the best production environment. The production env
   
   Cons:
   
-  i. The labor costs in United States is expensive.
+  i. The labor cost in United States is expensive.
   
   ii. Possible environment pollutions. 
   
-  Suggestion: The investors could consider building small-scaled coffee processing lines for high-end market.  
+  Suggestion: The investors could consider building small-scaled coffee processing lines for the high-end market.  
   
  - China 
 
@@ -115,7 +115,7 @@ China and United States have the best production environment. The production env
    
    ii. China have excellent production environment, and the labor costs is relatively low. 
    
-   iii. The logistics system in China is mature. The product could be delivered to each vendor as soon as possible. Plus, China is has international railways to Russia. The coffee consumption in Russia is even higher than the coffee consumption in China. 
+   iii. The logistics system in China is mature. The products could be delivered to each vendor as soon as possible. Plus, China has international railways to Russia. The total coffee consumption in Russia is even higher than the coffee consumption in China. 
    
    vi. The domestic coffee production in China is low. But China is close to large coffee producers like Vietnam and India. 
    
@@ -144,11 +144,6 @@ China and United States have the best production environment. The production env
     
     Suggestion: The investors could consider small-scaled investment in South Africa. Before making the decision, the investors should figure out which consumer group has the ability and the will to spend money on coffee product. And then the investor should adjust the product features and target market to meet the need of the mainstream consumers in South Africa. 
   
-  
-  
- 
-
-
 
 
 ## Economic Growth and Inflation after COVID-19 in BRICS_US
@@ -220,7 +215,7 @@ The datasets were taken from the World Bank and UNICEF. The datasets contained d
  - Eric: "EricStrobach"
 
   ## Team Member Roles
- - Louise will work on the coffee datasets and the coffee report established by the USDA. She will use machine learning to predict coffee consumption post-COVID. 
+ - Louise will work on the coffee datasets and the coffee report established by the USDA. She will use machine learning to predict coffee consumption post-COVID. The SQL database and schema will be created by her. 
  - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using supervised machine learning methodology. Will also create charts/maps on inflation.
  - Eric will also be using machine learning to analyze GDP and inflation of BRICS countries.
 
