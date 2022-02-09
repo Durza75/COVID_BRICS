@@ -67,15 +67,19 @@ Linear Regression Model was used to find out the relationship between coffee ind
 
 The coffee consumption/importation and production in one country are positive correlated to the GDP of the country. 
 
-During covid pandemic, global coffee median price is keep soaring. 
+Before the pandemic, the coffee price fluctuated a lot. However, the trend is going up. During covid pandemic, global coffee median price is spiking. According to our prediction, the coffee price in the recent five years will keep growing regardless of the COVID pandemic.
 
 ![coffee price world](https://user-images.githubusercontent.com/88631769/152743004-5b9cf745-6488-47a0-a0a2-d8a9062c8cca.PNG)
+
+
 
 Though the coffee consumption in China, India and South Africa is not as much as the consumption in Russia, the needs for coffee is growing in China, South Africa and India even during pandemic.
 
 Meanwhile the coffee consumption in Russia had dropped. However, the decrease in Russia's coffee consumption doesn't mean Russian people are changing their spending habits and life styles. We noticed that the decreased in Russian coffee importation is more than the decrease in Russina coffee consumption. Thus, the dropped in Russian coffee consumption could caused by the shortage of the coffee product and the increasing coffee price. 
 
-The result for industry prediciton is that the coffee consumption in BRICS country will keep growing, especially in China and South Africa. The significant growth in coffee import and coffee consupmtion means the coffee market in those China and South Africa is not saturated yet. Thus, the investors in United States and Brazil could consider building the coffee processing facilities in those countrAnd the price of coffee will increase in future. 
+The result for coffee industry prediciton is that the coffee consumption in BRICS country will keep growing, especially in China and South Africa. The significant growth in coffee import and coffee consupmtion means the coffee market in those China and South Africa is not saturated yet. Thus, the investors in United States and Brazil could consider building the coffee processing facilities in those country. 
+
+
 
 ### Analysis for Production Environment 
 
@@ -83,7 +87,7 @@ To find out which country have the ability to build coffee processing lines, we 
 
 ![BRICS_Resource](https://user-images.githubusercontent.com/88631769/152927305-c49e8564-28f7-4642-ae76-555665d27dff.PNG)
 
-China and United States have the best production environment. The production environment in South Africa is not as good as China or United States. But the coffee market in South Africa is relatively small. So South Africa’s accessibility to clean water, electricity and efficient logistics is enough to support small-scale production. 
+China and United States have the best production environment. The production environment in South Africa is not as good as China or United States. But the coffee market in South Africa is relatively small. South Africa’s accessibility to clean water, electricity and efficient logistics is enough to support small-scale production. 
 
 ### Investment Pros and Cons 
 
