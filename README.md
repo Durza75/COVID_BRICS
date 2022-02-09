@@ -174,7 +174,8 @@ COVID has had a profound impact on the world economy. The team would like to inv
 
 ## Description of Data Exploration Phase
 
-![DBMS ER diagram (UML notation)](https://user-images.githubusercontent.com/88631769/151652834-19978734-175c-4110-afb5-d9a3ebe7bb0f.png)
+![v1](https://user-images.githubusercontent.com/88631769/153141717-313d07eb-c32a-47f6-b477-6b7206d35a44.png)
+
 
 ### The Datasets 
 
