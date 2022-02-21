@@ -1,4 +1,4 @@
-# Final Project Proposal: COVID BRICS
+# BRICS Countries and Coffee Production Market Entry Analysis
 ## Overview 
 Using national income as the main criterion, the team will be looking into the economic performance of BRICS countries (Brazil, Russia, India, China, South Africa) and the US over the past 20 years and how COVID has had an effect on their development. The BRICS countries and the US collectively make up about half of the world's land mass as well as the world's population. *[enter exact numbers here]*. We will link that performance with access to key variables like electricity, water, health facilities, education and business climate. Finally, by using Machine Learning we will make several projections in terms of the future economy performance for these countries.
 
@@ -154,7 +154,7 @@ China and United States have the best production environment. The production env
 
 Brazil, Russia, India, China, South Africa (BRICS) combined with the United States have a combined area of about 32.84% of the global land area, and  a combined population of about 46.25% the global population. Their economies, as a result, are expected to affect global business activities significantly.
 
-The effect was COVID was experienced by these nations both in terms of the effect on growth rates of the gross domestic product (GDP) and inflation (price rise). Comparison of 2019 (one year before COVID-19) with the year 2020 shows this effect. There is variability in the effect felt among the BRICS_US nations with China having the least impact (See the maps below).
+The COVID effect experienced by these nations both in terms of the effect on growth rates of the gross domestic product (GDP) and inflation (price rise). Comparison of 2019 (one year before COVID-19) with the year 2020 shows this effect. There is variability in the effect felt among the BRICS_US nations with China having the least impact (See the maps below).
 
 The maps were generating using a dataset from the World Bank database and by using python in Jupyter Notebook.
 
