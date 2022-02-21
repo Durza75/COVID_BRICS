@@ -1,11 +1,11 @@
 # BRICS Countries and Coffee Production Market Entry Analysis
 ## Overview 
-Using national income as the main criterion, the team will be looking into the economic performance of BRICS countries (Brazil, Russia, India, China, South Africa) and the US over the past 20 years and how COVID has had an effect on their development. The BRICS countries and the US collectively make up about half of the world's land mass as well as the world's population. *[enter exact numbers here]*. We will link that performance with access to key variables like electricity, water, health facilities, education and business climate. Finally, by using Machine Learning we will make several projections in terms of the future economy performance for these countries.
+Using national income as the main criteria, the team will be looking into the economic performance of BRICS countries (Brazil, Russia, India, China, South Africa) and the US over the past 20 years and how COVID has had an effect on their development. The BRICS countries and the US collectively make up about half of the world's land mass as well as the world's population. *[enter exact numbers here]*. We will link that performance with access to key variables like electricity, water, health facilities, education and business climate. Finally, by using Machine Learning we will make several projections in terms of the future economy performance for these countries.
 
 Additionally, the team will analyze the possibility of building a coffee processing facility in one of the BRICS countries. The team hopes this analysis will reveal which country has the most potential for building coffee processing factories as well as the potential for higher coffee consumption rates.
 
 ## Business Interest Analysis
-The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee bean. So we are going to investigate the possibility of building coffee processing facilities in BRICS country. To develop ground coffee/instant coffee production lines, we need to make sure the country can supply clean water, stable access to electricity and fast logistics.
+The BRICS countries are either located in the places that are perfect for coffee bean growing, or located near the countries that largely consume coffee beans. So we are going to investigate the possibility of building coffee processing facilities in BRICS country. To develop ground coffee/instant coffee production lines, we need to make sure the country can supply clean water, stable access to electricity and fast logistics.
 
 We will use coffee industry performance data, covid cases data, electricity generation, water supply and logistic index data to find out which country has the potential to build coffee bean processing facility and which country would have the potential to consume the products.
 
@@ -224,7 +224,7 @@ The datasets were taken from the World Bank and UNICEF. The datasets contained d
  - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using supervised machine learning methodology. Will also create charts/maps on inflation.
  - Eric will make sure project is presentable and internal deadlines are followed. He will use the datasets and findings to post visualizations on Tableau. He will also be using machine learning to analyze GDP and inflation of BRICS countries.
 
-The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The linear regression analysis will also be used to predict the coffee consumption after covid.
+The linear regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The linear regression analysis will also be used to predict the coffee consumption after covid.
 
 Random Forest Regressor Model will be used in the prediction of energy and water supply.  
 
