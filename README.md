@@ -222,11 +222,7 @@ The datasets were taken from the World Bank and UNICEF. The datasets contained d
   ## Team Member Roles
  - Louise will work on the coffee datasets and the coffee report established by the USDA. She will use machine learning to predict coffee consumption post-COVID. The SQL database and schema will be created by her. 
  - Chandra will use the World Bank dataset to analyze the GDP and inflation of BRICS countries, and will make predictions of GDP and inflation using supervised machine learning methodology. Will also create charts/maps on inflation.
- - Eric will also be using machine learning to analyze GDP and inflation of BRICS countries.
-
- - *(The team is still in the planning phase. Once the gameplan is decided, the team will assign additional specific roles to each member)*
-
-
+ - Eric will make sure project is presentable and internal deadlines are followed. He will use the datasets and findings to post visualizations on Tableau. He will also be using machine learning to analyze GDP and inflation of BRICS countries.
 
 The liner regression analysis will be performed on the coffee consumption/price and covid cases to see the relationship between the coffee market and pandemic. The linear regression analysis will also be used to predict the coffee consumption after covid.
 
@@ -235,21 +231,23 @@ Random Forest Regressor Model will be used in the prediction of energy and water
  Once the predictions are complete, the team will use Tableau to visualize their findings.
 
  ## Technologies, Languages, Tools, and Algorithms Used
- - Python
- - Machine Learning
+ - k-means algorithm
+ - Linear Regression
+ - Correlation Analysis
+ - Python, Jupyter Notebook
+ - GitHub/GitBash
  - Random Forest
  - Tableau
- - SQL Schema
- - Powerpoint
+ - SQL
+ - Microsoft Excel
+ - Google Collab
+ - Google Slides
+ - VS Code
+ - Markdown
+ - Miro
 
  ## Results of Analysis
  - Visualizations of our findings via Tableau can be found by clicking [here](https://public.tableau.com/app/profile/eric3972/viz/COVID_BRICS/COVIDBRICS?publish=yes)
-
-- Initial Powerpoint created on Google for group members to share and fill out. Found [here](https://docs.google.com/presentation/d/1sENnhxP9yu0vP8DOV1RuBIz_gj9Yy_TbyXr_1YWNfM8/edit#slide=id.p)
-
-- Grading rubric and comments between the team and the Instructor/TAs found [here](https://docs.google.com/spreadsheets/d/15AgfrG6YEh5WokYdWDqsg1ljXe3YJu9cP0bLVVQpOXs/edit#gid=1810349514)
-
-
 
  ## Recommendations for Future Analyisis
 *[Recomendations will be entered here]*
